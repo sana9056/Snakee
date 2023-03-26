@@ -10,7 +10,7 @@
     pip install -r requirements.txt
 
 5 Запустите игру, введя команду:
-        python snake_game.py
+        python main.py
 
 6 Игра начнется, управляйте змейкой с помощью клавиш со стрелками.
 
